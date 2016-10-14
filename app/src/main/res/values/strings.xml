@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tema2_hoja5</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="buttonEj1">Cambiar Imagen</string>
+    <string name="buttonExample">Hacer foto</string>
+    <string name="ButtonEj4">Obtener hora</string>
+</resources>
